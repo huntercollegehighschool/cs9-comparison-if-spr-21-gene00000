@@ -23,7 +23,7 @@ not a month
 '''
 
 #start writing your code below
-month = (input("Enter a month, lowercase: "))
+month = (input("Enter a month - lowercase, please: "))
 
 if month == ("january") or ("march") or ("may") or ("july") or ("august") or ("october") or ("december"):
   print ("31")
